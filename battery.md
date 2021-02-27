@@ -24,6 +24,8 @@
 
 | Wh | Models                      | Notes                |
 | -: | :-------------------------- | :------------------- |
+| 63 | Latitude 7320               |                      |
+| 63 | Latitude 5320               |                      |
 | 62 | ProBook 6360b               |                      |
 | 62 | Latitude E6320/E6330        | 32 main + 30 bay     |
 | 60 | Latitude 7380/7390/7300     |                      |
@@ -54,12 +56,15 @@
 | 68 | Latitude 7410                          |                               |
 | 67 | EliteBook 1040 G4                      |                               |
 | 65 | Latitude E5440/E6440                   |                               |
+| 63 | Latitude 7420                          |                               |
+| 63 | Latitude 5420                          |                               |
 | 62 | EliteBook 6930p/8440p/8460p/8470p      |                               |
 | 62 | Latitude E6430s                        | 32 main + 30 bay              |
 | 62 | Latitude E5450/E5470                   |                               |
 | 60 | Latitude E6400/E6410                   |                               |
 | 60 | Latitude 6430u                         |                               |
 | 60 | Latitude 7480/7490/7400                |                               |
+| 60 | Latitude 9420                          |                               |
 | 57 | ThinkPad T410/T420/T430                |                               |
 | 57 | ThinkPad X1C5/X1C6                     |                               |
 | 57 | ThinkPad T480s/T490s/T495s/T14s        |                               |

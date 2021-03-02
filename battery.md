@@ -22,26 +22,26 @@
 
 ## 13.3 inches
 
-| Wh | Models                      | Notes                |
-| -: | :-------------------------- | :------------------- |
-| 63 | Latitude 7320               |                      |
-| 63 | Latitude 5320               |                      |
-| 62 | ProBook 6360b               |                      |
-| 62 | Latitude E6320/E6330        | 32 main + 30 bay     |
-| 60 | Latitude 7380/7390/7300     |                      |
-| 60 | Latitude 5300/5310          |                      |
-| 57 | EliteBook x360 1030 G2      |                      |
-| 56 | EliteBook x360 1030 G3/G4   |                      |
-| 54 | EliteBook x360 1030 G7      |                      |
-| 53 | EliteBook x360 830 G5/G6/G7 |                      |
-| 53 | EliteBook 830 G7            |                      |
-| 52 | Latitude 7310               |                      |
-| 50 | ThinkPad X300/X301          | 27.3 main + 23.7 bay |
-| 50 | EliteBook 830 G5/G6         |                      |
-| 48 | ThinkPad X390/X395/X13      |                      |
-| 40 | EliteBook 1030 G1           |                      |
-| 38 | ThinkPad X1                 |                      |
-| 30 | Latitude E4300/E4310        |                      |
+| Wh | Models                         | Notes                |
+| -: | :----------------------------- | :------------------- |
+| 63 | Latitude 7320                  |                      |
+| 63 | Latitude 5320                  |                      |
+| 62 | ProBook 6360b                  |                      |
+| 62 | Latitude E6320/E6330           | 32 main + 30 bay     |
+| 60 | Latitude 7380/7390/7300        |                      |
+| 60 | Latitude 5300/5310             |                      |
+| 57 | EliteBook x360 1030 G2         |                      |
+| 56 | EliteBook x360 1030 G3/G4      |                      |
+| 54 | EliteBook x360 1030 G7/G8      |                      |
+| 53 | EliteBook x360 830 G5/G6/G7/G8 |                      |
+| 53 | EliteBook 830 G7/G8            |                      |
+| 52 | Latitude 7310                  |                      |
+| 50 | ThinkPad X300/X301             | 27.3 main + 23.7 bay |
+| 50 | EliteBook 830 G5/G6            |                      |
+| 48 | ThinkPad X390/X395/X13         |                      |
+| 40 | EliteBook 1030 G1              |                      |
+| 38 | ThinkPad X1                    |                      |
+| 30 | Latitude E4300/E4310           |                      |
 
 ## 14.0/14.1 inches
 
@@ -49,7 +49,7 @@
 | -: | :------------------------------------- | :---------------------------- |
 | 95 | Latitude E6420/E6430                   | 65 main + 30 bay              |
 | 78 | Latitude 7400 2-in-1/9410 2-in-1       |                               |
-| 78 | EliteBook x360 1040 G7                 |                               |
+| 78 | EliteBook x360 1040 G7/G8              |                               |
 | 76 | ThinkPad T400s/T410s/T420s/T430s       | 44 main + 32 bay              |
 | 69 | ThinkPad T400                          | 37 main + 32 bay              |
 | 68 | Latitude 5480/5490/5495/5400/5410      |                               |
@@ -74,7 +74,7 @@
 | 55 | Compaq 6910p                           |                               |
 | 55 | Latitude E7470                         |                               |
 | 54 | Latitude E7440/E7450                   |                               |
-| 53 | EliteBook 840/845 G7                   |                               |
+| 53 | EliteBook 840/845 G7/G8                |                               |
 | 52 | EliteBook 9470m/9480m                  |                               |
 | 52 | ThinkPad X1C4                          |                               |
 | 51 | ThinkPad X1C7/X1C8                     |                               |

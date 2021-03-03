@@ -34,7 +34,7 @@
 | 56 | EliteBook x360 1030 G3/G4      |                      |
 | 54 | EliteBook x360 1030 G7/G8      |                      |
 | 53 | EliteBook x360 830 G5/G6/G7/G8 |                      |
-| 53 | EliteBook 830 G7/G8            |                      |
+| 53 | EliteBook 830/835 G7/G8        |                      |
 | 52 | Latitude 7310                  |                      |
 | 50 | ThinkPad X300/X301             | 27.3 main + 23.7 bay |
 | 50 | EliteBook 830 G5/G6            |                      |

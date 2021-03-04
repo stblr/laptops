@@ -32,6 +32,7 @@
 | 60 | Latitude 5300/5310             |                      |
 | 57 | EliteBook x360 1030 G2         |                      |
 | 56 | EliteBook x360 1030 G3/G4      |                      |
+| 55 | ThinkPad X13 G2                |                      |
 | 54 | EliteBook x360 1030 G7/G8      |                      |
 | 53 | EliteBook x360 830 G5/G6/G7/G8 |                      |
 | 53 | EliteBook 830/835 G7/G8        |                      |
@@ -68,6 +69,7 @@
 | 57 | ThinkPad T410/T420/T430                |                               |
 | 57 | ThinkPad X1C5/X1C6                     |                               |
 | 57 | ThinkPad T480s/T490s/T495s/T14s        |                               |
+| 57 | ThinkPad X1C9                          |                               |
 | 56 | Latitude D620/D630                     |                               |
 | 56 | ThinkPad T60/T61                       |                               |
 | 56 | EliteBook x360 1040 G5/G6              |                               |

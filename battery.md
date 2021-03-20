@@ -12,6 +12,8 @@
 | 48 | ThinkPad X280                           |                               |
 | 47 | ThinkPad X240/X250/X260/X270            | 23.5 internal + 23.5 external |
 | 46 | EliteBook 820 G1/G2                     |                               |
+| 45 | Lifebook U727/U728                      |                               |
+| 45 | Lifebook P727/P728                      |                               |
 | 44 | EliteBook 820 G3/G4                     |                               |
 | 42 | Latitude D420/D430                      |                               |
 | 36 | EliteBook 1020 G1                       |                               |
@@ -39,6 +41,8 @@
 |  53 | EliteBook 830/835 G7/G8        |                      |
 |  52 | Latitude 7310                  |                      |
 |  50 | ThinkPad X300/X301             | 27.3 main + 23.7 bay |
+|  50 | Lifebook U937/U938             |                      |
+|  50 | Lifebook T937/T938             |                      |
 |  50 | EliteBook 830 G5/G6            |                      |
 |  48 | ThinkPad X390/X395/X13         |                      |
 |  40 | EliteBook 1030 G1              |                      |
